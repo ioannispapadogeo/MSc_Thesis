@@ -4,8 +4,8 @@ This repository contains the work delivered within the Master Thesis, in partial
 It includes:
 * The final report with a title "Decarbonisation of the Dutch Container Glass Industry by 2050: A Model-based Analysis of 
 Technology Options"
-* The "Glass_model.xlsx" which contains the calculations performed within Techno-economic analysis, as well as user-defined parameters.
-* The "Glass_MORDM.xlsx" which is a version of the "Glass_model.xlsx" and it is used for perfoming many objective search in Python.
+* The "Glass_model.xlsx" which contains the calculations performed within Techno-economic analysis. The parameters can be adjusted by the user to examine the impact of CO2-reducing technologies on the container glass production.
+* The "Glass_MORDM.xlsx" which is a version of the "Glass_model.xlsx" and it is used for performing many objective search in Python programming language.
 * The "Glass_MORDM.ipynb" which contains the code for performing a many-objective optimisation search.
 * The saved results from performing the above search.
 
